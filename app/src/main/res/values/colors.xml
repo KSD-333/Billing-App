@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Brand Colors -->
+    <color name="brand_primary">#212121</color> <!-- Keep it black/dark grey as per user pref -->
+    <color name="brand_accent">#009688</color> <!-- Teal for accents sales/money -->
+    <color name="brand_secondary">#757575</color>
+
+    <!-- Light Theme Colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_secondary_light">#616161</color>
+    <color name="divider_light">#E0E0E0</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary_dark">#ECECEC</color>
+    <color name="text_secondary_dark">#A0A0A0</color>
+    <color name="divider_dark">#2C2C2C</color>
+
+    <!-- Dashboard Cards -->
+    <color name="card_blue_light">#E3F2FD</color>
+    <color name="card_blue_dark">#1A237E</color>
+    
+    <color name="card_green_light">#E8F5E9</color>
+    <color name="card_green_dark">#1B5E20</color>
+    
+    <color name="card_orange_light">#FFF3E0</color>
+    <color name="card_orange_dark">#E65100</color>
+
+    <!-- Functional Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+
+    <!-- Missing Legacy Colors -->
+    <color name="text_secondary">#757575</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black_overlay">#66000000</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BillingApp.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        
+        <!-- Android 12+ (API 31+) Splash Screen API overrides -->
+        <!-- This hides the system-default icon on startup -->
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+        <!-- Set the background color (system splash doesn't support gradients, so we use black to blend) -->
+        <item name="android:windowSplashScreenBackground">@color/black</item>
+        <!-- Shorten the system splash duration -->
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+    </style>
+</resources>
